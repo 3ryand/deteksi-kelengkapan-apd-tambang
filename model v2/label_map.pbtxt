@@ -1,0 +1,30 @@
+item {
+    id: 1
+    name: 'pekerja'
+}
+
+item {
+    id: 2
+    name: 'helm'
+}
+item {
+    id: 3
+    name: 'rompi'
+}
+
+item {
+    id: 4
+    name: 'sarung tangan'
+}
+item {
+    id: 5
+    name: 'sepatu'
+}
+item {
+    id: 6
+    name: 'tanpa helm'
+}
+item {
+    id: 7
+    name: 'tanpa rompi'
+}
